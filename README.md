@@ -5,7 +5,7 @@ Data Analyst
 
 * ✉️  You can contact me at [raajithamuthyala@gmail.com](mailto:raajithamuthyala@gmail.com)
 * 🧠  I'm learning Clinical NLP
-* Portfolio - [https://raajithamuthyala.github.io/portfolio/](https://raajithamuthyala.github.io/Porfolio/)
+* Portfolio - [My Portfolio](https://raajithamuthyala.github.io/Portfolio2.0/)
 ### Skills
 
 
