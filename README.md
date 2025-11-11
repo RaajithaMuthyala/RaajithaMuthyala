@@ -1,4 +1,4 @@
-Hi 👋 My name is Raajitha Muthyala
+Hi 👋 
 ==================================
 
 Data Analyst
