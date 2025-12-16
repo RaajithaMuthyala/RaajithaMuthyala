@@ -1,4 +1,4 @@
-Hi 👋 I'm Raajitha
+Hi there!
 ==================================
 
 Healthcare Data Analyst | Health Informatics Graduate | Pharmacy Background
