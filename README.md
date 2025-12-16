@@ -4,17 +4,19 @@ Hi 👋 I'm Raajitha
 Healthcare Data Analyst | Health Informatics Graduate | Pharmacy Background
 ---------------------------------------------------------------------------
 
-I transform healthcare data into actionable insights that drive clinical decision-making and improve patient outcomes. With 3+ years of experience spanning pharmaceutical analytics, clinical research, and health informatics, I specialize in building predictive models, interactive dashboards, and data pipelines that bridge the gap between complex healthcare data and real-world impact.
+I'm a healthcare data analyst with a unique combination of pharmacy expertise and health informatics training. 
 
-🏥 **Currently:** Data Analyst at Purkayastha Lab for Health Innovation (Indiana University), leading NLP and predictive modeling projects on EHR and clinical datasets
+My work spans the full data lifecycle—from wrangling EHR datasets and ensuring HIPAA compliance to deploying ML models that stratify patient risk. I'm equally comfortable writing SQL queries, building Power BI dashboards, and explaining technical findings to non-technical stakeholders.
+
+🏥 **Currently:** Data Analyst at Purkayastha Lab for Health Innovation (Indiana University), leading NLP and predictive modeling projects on EHR, clinical and imaging datasets
 
 🔬 **Recent Win:** Winner of Emory Health AI Datathon 2025 - developed a bias evaluation framework for medical imaging AI systems
 
 📊 **I work with:** 
-- **Analytics:** SQL, Python, R, Machine Learning (Random Forest, SVM, Logistic Regression)
+- **Analytics:** SQL, Python, R, Machine Learning (Random Forest, SVM, Logistic Regression), SAS (Basic)
 - **Visualization:** Tableau, Power BI, DHIS2
 - **Healthcare Standards:** HL7/FHIR, ICD-9/10, SNOMED-CT, LOINC, RxNorm
-- **Specialization:** Clinical NLP, EHR Systems (Epic, OpenMRS, REDCap), Predictive Modeling
+- **Specialization:** Clinical NLP, EHR Systems (Epic, OpenMRS, OpenEMR, REDCap), Predictive Modeling
 
 📝 **Published Research:** JMIR 2025 - Evaluating LLMs for medical coding and readmission risk prediction (85% accuracy on ICD-9 coding)
 
