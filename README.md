@@ -20,8 +20,9 @@ I transform healthcare data into actionable insights that drive clinical decisio
 
 💡 **Impact Highlights:**
 - Reduced data processing time by 60% through automated biomedical ontology pipelines
-- Identified 23 underserved areas in maternal health through DHIS2 analytics affecting 500K+ population
-- Built ML models enabling clinicians to identify 3,200+ high-risk cardiovascular patients for intervention
+- Mapped ANC2 coverage gaps identifying 23 underserved areas requiring intervention across 16 districts
+- Developed predictive models achieving 82% accuracy, enabling risk stratification for 3,200+ high-risk cardiovascular patients
+- Reduced manual data reconciliation by 30% with reusable FHIR integration pipeline
 
 * ✉️  You can contact me at [raajithamuthyala@gmail.com](mailto:raajithamuthyala@gmail.com)
 * 🧠  I'm learning Clinical NLP and exploring AI fairness in healthcare systems
